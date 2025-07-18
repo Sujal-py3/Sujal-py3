@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 AI Engineer Intern @ [theGoodBrowser](https://thegoodbrowser.com)
+- 👨‍💻 Ex-AI Engineer Intern @ [theGoodBrowser](https://thegoodbrowser.com)
 - 🎓 3rd Year B.Tech CSE Student @ Bennett University
 - 🤖 Passionate about LLMs, Computer Vision & GenAI workflows
 - 🏆 Placed Top 6 out of 12,000+ in RedHat’s [Woodpecker Hackathon](https://www.linkedin.com/posts/sujal-singh-413264252_unstop-artificialintelligence-activity-7237462478798929920-p9k)
