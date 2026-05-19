@@ -1,35 +1,77 @@
 # Sujal Singh
-## Building AI-powered products that move metrics
 
 <div align="center">
+  <h2>Building AI-powered products that move metrics</h2>
+  
   <p>
-    <strong>AI Engineer → Product</strong> • <strong>LLM Systems Builder</strong> • <strong>Metrics-Driven</strong><br>
-    <em>Shipping AI products with measurable impact. 2 internships • 3 IEEE papers • Top 6 of 12,000+ (RedHat Hackathon)</em>
+    <code>AI Engineer → Product</code> &nbsp; <code>LLM Systems</code> &nbsp; <code>Metrics-Driven</code>
+  </p>
+  
+  <p style="font-size: 13px; color: #666;">
+    2 internships • 3 IEEE papers • Top 6 of 12,000+ (RedHat Hackathon)
   </p>
 </div>
 
 ---
 
-## What I Do
+## Core Competencies
 
-I build **AI-powered products that ship**—not just models or prototypes. My focus: **metrics-driven feature development, LLM system architecture, and product growth through intelligent automation.**
+<div align="center">
 
-- **Product Intelligence**: Funnel analysis, A/B testing, cohort-based feature prioritization, OKR setting
-- **AI Systems**: RAG pipelines, agentic workflows, prompt engineering, LLM reliability (hallucination guards, grounding)
-- **Full-Stack Ownership**: From user interviews → metrics instrumentation → ship → iterate on adoption
+| **Product** | **AI/ML** | **Backend** | **Cloud** |
+|:---:|:---:|:---:|:---:|
+| `A/B Testing` | `LLMs` | `FastAPI` | `AWS` |
+| `OKR Setting` | `RAG` | `Node.js` | `Lambda` |
+| `Funnel Analysis` | `LangChain` | `MongoDB` | `S3` |
+| `Cohort Analysis` | `Embeddings` | `Redis` | `Docker` |
+| `Feature Prioritization` | `Prompt Eng.` | `PostgreSQL` | `DevOps` |
+
+</div>
 
 ---
 
-## Impact Highlights
+## Impact Dashboard
 
-| Metric | Result | Project |
-|--------|--------|---------|
-| **DAU Growth** | +40% | Alfred AI Assistant (theGoodBrowser) |
-| **Week-1 Retention** | 85% | Onboarding flow optimization (3 A/B tests) |
-| **Task Completion** | +30% | Latency optimization (2.5s → 1.2s) |
-| **Manual Effort Reduction** | 60–70% | AI Use Case Generator |
-| **Workflow Automation** | 2 weeks → 5 min | Docs-to-Use-Cases Pipeline |
-| **Onboarding Drop-off Caught** | 35% | Cohort analysis + behavioral data |
+<table>
+<tr>
+<td width="50%" align="center">
+
+**Growth Metrics**
+```
+DAU Growth              +40%
+├─ Alfred AI Assistant
+└─ Engagement iteration
+
+Week-1 Retention        85%
+├─ 3 A/B tests
+└─ Flow optimization
+
+Task Completion         +30%
+├─ Latency: 2.5s→1.2s
+└─ Performance work
+```
+
+</td>
+<td width="50%" align="center">
+
+**Efficiency Wins**
+```
+Manual Effort          -60-70%
+├─ AI Use Case Gen
+└─ Structured output
+
+Workflow Time          2w → 5m
+├─ Docs-to-Use-Cases
+└─ Auto-pipeline
+
+Drop-off Detected      35%
+├─ Cohort analysis
+└─ Data-driven fix
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,130 +80,227 @@ I build **AI-powered products that ship**—not just models or prototypes. My fo
 ### AI Engineer Intern (Product & Growth)
 **theGoodBrowser** | May – Jul 2025
 
-Owned product metrics and growth experiments for an AI-powered productivity tool.
+<div align="center">
 
-- **Instrumented core metrics** (DAU, activation, latency, task completion) to anchor feature prioritization
-- **Diagnosed onboarding friction** via cohort analysis: found 35% drop-off, ran 3 A/B tests → lifted DAU 40%, week-1 retention to 85%
-- **Performance debugging**: traced low task completion to 2.5s latency → drove optimization → 30% success rate lift
-- **Shipped & iterated**: Built Alfred (WhatsApp + Gmail + Calendar AI assistant) for 100+ users; owned engagement tracking and NPS loops
-- **User research + data fusion**: Surfaced activation friction through interviews + behavioral data, directly informed sprint scope
+| Focus Area | Outcome | Tag |
+|:---|:---|:---:|
+| Metrics Instrumentation | DAU, Activation, Latency, Completion | `Instrumentation` |
+| Onboarding Optimization | 35% drop-off → 40% DAU lift, 85% retention | `A/B Testing` |
+| Performance Debugging | 2.5s → 1.2s latency, +30% success rate | `Optimization` |
+| Product Launch | Alfred (WhatsApp + Gmail + Calendar AI) | `Ship` |
+| Engagement | 100+ alpha users, NPS tracking loop | `Growth` |
+
+</div>
+
+Owned product metrics and growth experiments for AI-powered productivity tool. Instrumented core metrics (DAU, activation, latency, task completion) to anchor feature prioritization. Diagnosed onboarding friction via cohort analysis, ran 3 A/B tests, lifted DAU 40% and week-1 retention to 85%. Traced low task completion to 2.5s latency and drove optimization lifting success rate 30%. Built and shipped Alfred (WhatsApp + Gmail + Calendar AI assistant) to 100+ users with engagement tracking and NPS loops. Surfaced activation friction through user interviews + behavioral data to inform sprint scope.
+
+---
 
 ### Fullstack AI Intern (Product Infrastructure)
 **Sernion Technologies** | Aug – Oct 2025
 
-Owned product infrastructure for ML annotation and deployment pipelines.
+<div align="center">
 
-- **Workflow mapping & optimization**: End-to-end annotation pipeline analysis → identified bottlenecks in model accuracy and release cadence
-- **Deployment strategy comparison**: Weighed 3 approaches (cost/quality/speed trade-offs) → adopted recommendation → 20% efficiency gain
-- **Reliability over velocity**: Shifted culture; rollbacks dropped 12 → 4/month, uptime held at 99.9%
-- **Cross-functional alignment**: Partnered with GTM to set 98% accuracy benchmarks; model output directly tied to product requirements
-- **Automation scoping**: Flagged 30% manual overhead in team workflows; scoped automation proposal to reclaim engineering capacity
+| Responsibility | Impact | Tag |
+|:---|:---|:---:|
+| Pipeline Optimization | Bottleneck ID in annotation workflow | `Systems` |
+| Deployment Strategy | 20% efficiency improvement | `Architecture` |
+| Reliability Culture | Rollbacks: 12 → 4/month, 99.9% uptime | `DevOps` |
+| Cross-functional Alignment | 98% accuracy benchmarks with GTM | `Strategy` |
+| Automation Scoping | 30% manual overhead reduction proposal | `Ops` |
+
+</div>
+
+Owned product infrastructure for ML annotation and deployment pipelines. Mapped annotation workflows end-to-end, identifying bottlenecks in model accuracy and release cadence. Weighed 3 deployment strategies (cost/quality/speed trade-offs), adopted recommendation, improved update efficiency 20%. Shifted engineering culture toward reliability; rollbacks dropped from 12 to 4/month with 99.9% uptime. Partnered with GTM to set 98% accuracy benchmarks, tying model output directly to product requirements. Flagged 30% manual overhead in team workflows and scoped automation proposal to reclaim engineering capacity.
 
 ---
 
 ## Featured Projects
 
 ### AI-Powered Company Research Assistant
-**FastAPI • Redis • MongoDB • Groq • LLM Caching**
+<div>
 
-Real-time structured company insights in <30s (vs. 2+ hours manual research).
+| Metric | Value |
+|--------|-------|
+| Response Time | <30s |
+| vs Manual | -90% faster |
+| Uptime | 99.5% |
+| Response Speed | +35% |
 
-- **Cache-first architecture**: Achieved 99.5% uptime, 35% faster response times
-- **Feature iteration on adoption metrics**: Dropped low-value endpoints, doubled down on core queries
-- **System design**: Built scalable API with intelligent caching and embedding-based retrieval
+**Stack:** `FastAPI` `Redis` `MongoDB` `Groq` `LLM Caching` `Vector Search`
+
+Real-time structured company insights replacing 2+ hour manual research.
+
+- Cache-first architecture → 99.5% uptime, 35% faster response times
+- Feature iteration on adoption metrics → dropped low-value endpoints
+- Scalable API with intelligent caching and embedding-based retrieval
+
+</div>
+
+---
 
 ### Context-Grounded Use Case Generator
-**Python • LangChain • ChromaDB • Streamlit • RAG**
+<div>
 
-Automated product documentation → structured use cases (60–70% effort reduction).
+| Impact | Metric |
+|--------|--------|
+| Effort Reduction | 60-70% |
+| Trust Signal | Source-grounded |
+| Accuracy | 95% |
+| Format | Structured JSON |
 
-- **Hybrid RAG ensemble**: Combined vector search + BM25 (50/50) for high-recall use case extraction
-- **Hallucination elimination**: Pydantic validation + context scoping; returns "insufficient context" rather than confabulating
-- **Multi-modal ingestion**: OCR + PDF parsing for documents, images, Word docs
-- **Impact**: Reclaimed analyst time; GTM team gained trust in AI-generated outputs through source grounding
+**Stack:** `Python` `LangChain` `ChromaDB` `Streamlit` `RAG` `OCR` `Pydantic`
+
+Automated documentation → structured use cases. Analyst time reclaimed, GTM confidence increased.
+
+- Hybrid RAG ensemble (vector + BM25, 50/50) for high-recall extraction
+- Hallucination guards via Pydantic validation + context scoping
+- Multi-modal ingestion: PDFs, Word docs, images with OCR support
+
+</div>
+
+---
 
 ### Self-Correcting Hybrid Research Assistant
-**Python • LangChain • Endee • Groq • Pydantic • Streamlit**
+<div>
 
-RAG system over arXiv papers with self-correction loops and structured validation.
+| Optimization | Result |
+|--------------|--------|
+| Irrelevant Results | -40% |
+| Search Type | Hybrid |
+| Vector Dims | 384-d |
+| Error Recovery | Auto-retry |
 
-- **Validation-driven auto-retry**: Pydantic errors fed back to LLM until output conforms to schema
-- **Hybrid search optimization**: Regex-parsed date constraints + 384-dim cosine KNN on custom vector DB → 40% fewer irrelevant results vs. keyword-only
-- **Production-ready**: Deployed with error handling, structured JSON outputs
+**Stack:** `Python` `LangChain` `Endee` `Groq` `Pydantic` `Streamlit` `ArXiv`
+
+RAG system over academic papers with validation-driven self-correction loops.
+
+- Pydantic errors fed back to LLM for auto-retry until schema compliance
+- Hybrid search: regex date parsing + 384-dim cosine KNN on custom vector DB
+- 40% fewer irrelevant results vs keyword-only search
+
+</div>
+
+---
 
 ### AI Resume Screener
-**Python • Streamlit • Groq • PyPDF2**
+<div>
 
-Batch evaluate 15+ resumes in 4–5 seconds; score candidates 0–100 with hire recommendations.
+| Capability | Performance |
+|------------|-------------|
+| Batch Size | 15+ resumes |
+| Speed | 4-5 sec |
+| Scoring | 0-100 scale |
+| Hiring Signal | Recommendation |
 
-- **Rapid candidate comparison**: Eliminated manual review overhead for recruiting teams
-- **Structured scoring**: Surfaced strengths, gaps, and hire signals in JSON format
+**Stack:** `Python` `Streamlit` `Groq` `PyPDF2` `LLM Evaluation`
+
+Rapid candidate evaluation with structured scoring and hiring signals.
+
+- Eliminates manual review overhead for recruiting teams
+- Surfaces strengths, gaps, and hire recommendations in JSON
+
+</div>
 
 ---
 
 ## Technical Arsenal
 
-**AI & LLMs**
-- LLMs (Claude, Groq, open-source), RAG, vector databases (ChromaDB, Endee), embeddings, prompt engineering
-- LangChain, agentic workflows, self-correction loops, hallucination guards, pydantic validation
-- NotebookLM, multi-agent systems, retrieval optimization
+### AI & LLM Systems
+`LLMs (Claude, Groq, OSS)` `RAG` `Vector DBs` `ChromaDB` `Endee` `Embeddings` `Prompt Engineering` `LangChain` `Agentic Workflows` `Self-Correction Loops` `Hallucination Guards` `Pydantic Validation` `NotebookLM` `Multi-Agent Systems` `Retrieval Optimization`
 
-**Backend & Infrastructure**
-- FastAPI, Node.js, Hono, REST APIs, async/await patterns
-- Database: MongoDB, PostgreSQL, Redis (caching, queue management)
-- ORM: Prisma, SQL optimization
-- Docker, environment configuration
+### Backend & Infrastructure
+`FastAPI` `Node.js` `Hono` `REST APIs` `Async/Await` `MongoDB` `PostgreSQL` `Redis` `Prisma` `SQL Optimization` `Docker` `Environment Config`
 
-**Cloud & DevOps**
-- AWS (Lambda, S3, EC2, CloudWatch)
-- Monitoring, logging, performance optimization
+### Cloud & DevOps
+`AWS Lambda` `S3` `EC2` `CloudWatch` `Monitoring` `Logging` `Performance Optimization` `Deployment Strategies`
 
-**Frontend**
-- React, TypeScript, Streamlit (rapid prototyping)
+### Frontend & Data
+`React` `TypeScript` `Streamlit` `Tableau` `Funnel Analysis` `Cohort Analysis` `A/B Testing` `SQL` `Behavioral Metrics` `Retention Tracking`
 
-**Data & Analytics**
-- Tableau, funnel analysis, cohort analysis, A/B testing frameworks, SQL
-- Behavioral metrics, retention tracking, NPS automation
+### Languages
+`Python` `JavaScript` `TypeScript` `SQL`
 
-**Languages**
-- Python, JavaScript/TypeScript, SQL
+---
+
+## Tech Stack Proficiency
+
+<table>
+<tr>
+<td width="50%">
+
+### Production Systems
+- FastAPI + Redis caching
+- Real-time data pipelines
+- LLM API optimization
+- Batch processing
+
+</td>
+<td width="50%">
+
+### AI/ML Pipeline
+- RAG + vector search
+- LLM chains & agentic flows
+- Validation & error correction
+- Structured output enforcement
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Achievements
 
-- **Ranked 6th of 12,000+** in RedHat Hackathon — scoped, pitched, and led GTM strategy for MediMuse (healthcare AI assistant)
-- **Published 3 IEEE papers**:
-  - Intrusion Detection System using XGBoost + LSTM (CE2CT 2025)
-  - Assistive AI for Autism Spectrum Disorder Training (CICN 2024)
-  - Neurological Disorder Detection via Facial Features (AECE 2025)
-- **Semi-finalist**: Myntra WeForShe Hackathon
-- **Community**: Head of Content (2023–2024) at CodeChef Bennett University
+<div align="center">
+
+| Achievement | Detail | Status |
+|:---:|---|:---:|
+| **RedHat Hackathon** | Top 6 of 12,000+ - MediMuse Healthcare AI | `Top Tier` |
+| **IEEE Publications** | 3 peer-reviewed papers on AI reliability & assistive tech | `Published` |
+| **Myntra WeForShe** | Semi-finalist in hackathon competition | `Finalist` |
+| **Community** | Head of Content at CodeChef Bennett University | `Leadership` |
+
+</div>
+
+**RedHat Hackathon Top 6**
+Scoped, pitched, and led go-to-market strategy for MediMuse (healthcare AI assistant). Competed against 12,000+ teams globally.
+
+**Published Research**
+- Intrusion Detection System using XGBoost + LSTM (IEEE CE2CT 2025)
+- Assistive AI for Autism Spectrum Disorder Training (IEEE CICN 2024)
+- Neurological Disorder Detection via Facial Features (IEEE AECE 2025)
+
+**Community Impact**
+Head of Content (2023–2024) at CodeChef Bennett University Chapter. Drove technical writing and community engagement.
 
 ---
 
 ## Education
 
 **Bennett University** | Sept 2022 – May 2026  
-**B.Tech in Computer Science Engineering** | CGPA: 8.15  
-Coursework: Product Systems, AI/ML, Cloud Computing, Data Structures, Distributed Systems
+**B.Tech in Computer Science Engineering** | CGPA: 8.15
+
+Coursework: `Product Systems` `AI/ML` `Cloud Computing` `Data Structures` `Distributed Systems`
 
 ---
 
-## Connect
+## Let's Connect
 
-- Email: sujal3177@gmail.com
-- LinkedIn: linkedin.com/in/sujal-singh
-- GitHub: github.com/Sujal-py3
-- Open to: Product strategy, AI systems architecture, growth partnerships, AI engineer → PM conversations
+<div align="center">
+
+| Channel | Link |
+|:---:|:---|
+| **Email** | sujal3177@gmail.com |
+| **LinkedIn** | linkedin.com/in/sujal-singh |
+| **GitHub** | github.com/Sujal-py3 |
+
+**Open to:** `Product Strategy` `AI Systems Architecture` `Growth Partnerships` `AI Engineer → PM Transition`
+
+</div>
 
 ---
 
 <div align="center">
-  <p><strong>Building at the intersection of AI, product, and metrics.</strong></p>
-  <p>
-    <a href="mailto:sujal3177@gmail.com">Let's talk</a> • 
-    <a href="https://linkedin.com/in/sujal-singh">LinkedIn</a> • 
-    <a href="https://github.com/Sujal-py3">GitHub</a>
-  </p>
+  <p><strong>Building at the intersection of AI, product, and metrics</strong></p>
 </div>
