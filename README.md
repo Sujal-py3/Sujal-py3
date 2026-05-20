@@ -70,12 +70,15 @@
 ![DevOps](https://img.shields.io/badge/DevOps-FB5607?style=flat&logo=terraform)
 
 ---
-
 ## Growth & Performance Metrics
-<svg viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg" style="width:100%; border-radius: 8px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);">
+<svg viewBox="0 0 1000 420"
+     xmlns="http://www.w3.org/2000/svg"
+     style="width:100%; border-radius:12px;
+     background:linear-gradient(135deg,#f5f7fa 0%,#c3cfe2 100%);">
 
-  <!-- Arrow Definition -->
+  <!-- DEFINITIONS -->
   <defs>
+
     <marker id="arrowRed"
             markerWidth="10"
             markerHeight="10"
@@ -84,85 +87,117 @@
             orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#FF6B6B"/>
     </marker>
+
+    <marker id="arrowGreen"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#50C878"/>
+    </marker>
+
   </defs>
 
-  <!-- DAU Growth Bar Chart -->
+  <!-- LEFT: DAU CHART -->
   <g id="dau-chart">
 
-    <!-- Title -->
-    <text x="50" y="40" font-size="18" font-weight="bold" fill="#333">
+    <text x="50"
+          y="40"
+          font-size="20"
+          font-weight="bold"
+          fill="#333">
       DAU Growth Journey
     </text>
 
-    <!-- Baseline -->
-    <rect x="80" y="100" width="40" height="200"
+    <!-- Bar 1 -->
+    <rect x="80"
+          y="140"
+          width="60"
+          height="160"
+          rx="6"
           fill="#FFB6C1"
           stroke="#FF69B4"
           stroke-width="2"/>
 
-    <text x="100" y="320"
+    <text x="110"
+          y="325"
           text-anchor="middle"
-          font-size="12"
+          font-size="13"
           fill="#333">
       Day 1
     </text>
 
-    <text x="100" y="335"
+    <text x="110"
+          y="345"
           text-anchor="middle"
-          font-size="10"
+          font-size="11"
           fill="#666">
       Baseline
     </text>
 
-    <!-- After Tests -->
-    <rect x="200" y="60" width="40" height="240"
+    <!-- Bar 2 -->
+    <rect x="210"
+          y="100"
+          width="60"
+          height="200"
+          rx="6"
           fill="#87CEEB"
           stroke="#4169E1"
           stroke-width="2"/>
 
-    <text x="220" y="320"
+    <text x="240"
+          y="325"
           text-anchor="middle"
-          font-size="12"
+          font-size="13"
           fill="#333">
       Week 2
     </text>
 
-    <text x="220" y="335"
+    <text x="240"
+          y="345"
           text-anchor="middle"
-          font-size="10"
+          font-size="11"
           fill="#666">
       +20%
     </text>
 
-    <!-- Final Result -->
-    <rect x="320" y="20" width="40" height="280"
+    <!-- Bar 3 -->
+    <rect x="340"
+          y="60"
+          width="60"
+          height="240"
+          rx="6"
           fill="#50C878"
           stroke="#228B22"
           stroke-width="2"/>
 
-    <text x="340" y="320"
+    <text x="370"
+          y="325"
           text-anchor="middle"
-          font-size="12"
+          font-size="13"
           fill="#333">
       Final
     </text>
 
-    <text x="340" y="335"
+    <text x="370"
+          y="345"
           text-anchor="middle"
-          font-size="10"
+          font-size="11"
           font-weight="bold"
           fill="#666">
       +40%
     </text>
 
     <!-- Arrow -->
-    <path d="M 380 150 L 470 150"
+    <path d="M 420 170 L 500 170"
           stroke="#FF6B6B"
           stroke-width="3"
           fill="none"
           marker-end="url(#arrowRed)"/>
 
-    <text x="425" y="140"
+    <text x="460"
+          y="150"
           text-anchor="middle"
           font-size="14"
           font-weight="bold"
@@ -171,121 +206,91 @@
     </text>
 
   </g>
-</svg>
-  
-  <!-- Latency Optimization Line Chart -->
- <svg viewBox="0 0 1000 400"
-     xmlns="http://www.w3.org/2000/svg"
-     style="width:100%; border-radius:8px;
-     background:linear-gradient(135deg,#f5f7fa 0%,#c3cfe2 100%);">
 
-  <!-- Arrow Markers -->
-  <defs>
-    <marker id="arrowRed"
-            markerWidth="10"
-            markerHeight="10"
-            refX="8"
-            refY="3"
-            orient="auto"
-            markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#FF6B6B"/>
-    </marker>
+  <!-- RIGHT: LATENCY CHART -->
+  <g id="latency-chart" transform="translate(520,0)">
 
-    <marker id="arrowGreen"
-            markerWidth="10"
-            markerHeight="10"
-            refX="8"
-            refY="3"
-            orient="auto"
-            markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#50C878"/>
-    </marker>
-  </defs>
-
-  <!-- Latency Optimization Chart -->
-  <g id="latency-chart" transform="translate(500, 0)">
-
-    <!-- Title -->
-    <text x="50"
+    <text x="40"
           y="40"
-          font-size="18"
+          font-size="20"
           font-weight="bold"
           fill="#333">
       Latency Optimization
     </text>
 
-    <!-- Dashed Trend Line -->
-    <polyline points="50,100 150,140 250,220"
+    <!-- Trend Line -->
+    <polyline points="70,120 180,160 300,240"
               stroke="#FF6B6B"
               stroke-width="3"
               fill="none"
               stroke-dasharray="6,6"/>
 
-    <!-- Baseline Point -->
-    <circle cx="50"
-            cy="100"
+    <!-- Point 1 -->
+    <circle cx="70"
+            cy="120"
             r="7"
             fill="#FF6B6B"
             stroke="#FF0000"
             stroke-width="2"/>
 
-    <text x="50"
-          y="130"
+    <text x="70"
+          y="145"
           text-anchor="middle"
           font-size="12"
           fill="#333">
       2.5s
     </text>
 
-    <!-- Mid Point -->
-    <circle cx="150"
-            cy="140"
+    <!-- Point 2 -->
+    <circle cx="180"
+            cy="160"
             r="7"
             fill="#FFB84D"
             stroke="#FF8C00"
             stroke-width="2"/>
 
-    <text x="150"
-          y="170"
+    <text x="180"
+          y="185"
           text-anchor="middle"
           font-size="12"
           fill="#333">
       2.0s
     </text>
 
-    <!-- Optimized Point -->
-    <circle cx="250"
-            cy="220"
+    <!-- Point 3 -->
+    <circle cx="300"
+            cy="240"
             r="7"
             fill="#50C878"
             stroke="#228B22"
             stroke-width="2"/>
 
-    <text x="250"
-          y="250"
+    <text x="300"
+          y="265"
           text-anchor="middle"
           font-size="12"
           fill="#333">
       1.2s
     </text>
 
-    <!-- Reduction Arrow -->
-    <path d="M 60 80 L 250 80"
+    <!-- Speed Arrow -->
+    <path d="M 80 90 L 300 90"
           stroke="#50C878"
           stroke-width="3"
           fill="none"
           marker-end="url(#arrowGreen)"/>
 
-    <text x="155"
-          y="65"
+    <text x="190"
+          y="70"
           text-anchor="middle"
-          font-size="13"
+          font-size="14"
           font-weight="bold"
           fill="#50C878">
       52% Faster
     </text>
 
   </g>
+
 </svg>
 ---
 
