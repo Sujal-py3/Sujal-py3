@@ -72,67 +72,221 @@
 ---
 
 ## Growth & Performance Metrics
-
 <svg viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg" style="width:100%; border-radius: 8px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);">
-  <!-- DAU Growth Bar Chart -->
-  <g id="dau-chart">
-    <text x="50" y="30" font-size="18" font-weight="bold" fill="#333">DAU Growth Journey</text>
-    
-    <!-- Baseline -->
-    <rect x="80" y="100" width="40" height="200" fill="#FFB6C1" stroke="#FF69B4" stroke-width="2"/>
-    <text x="80" y="320" text-anchor="middle" font-size="12" fill="#333">Day 1</text>
-    <text x="100" y="320" text-anchor="middle" font-size="10" fill="#666">Baseline</text>
-    
-    <!-- After Tests -->
-    <rect x="200" y="60" width="40" height="240" fill="#87CEEB" stroke="#4169E1" stroke-width="2"/>
-    <text x="220" y="320" text-anchor="middle" font-size="12" fill="#333">Week 2</text>
-    <text x="220" y="335" text-anchor="middle" font-size="10" fill="#666">+20%</text>
-    
-    <!-- Final Result -->
-    <rect x="320" y="20" width="40" height="280" fill="#50C878" stroke="#228B22" stroke-width="2"/>
-    <text x="340" y="320" text-anchor="middle" font-size="12" fill="#333">Final</text>
-    <text x="340" y="335" text-anchor="middle" font-size="10" fill="#666" font-weight="bold">+40%</text>
-    
-    <!-- Arrow -->
-    <path d="M 360 150 L 450 150" stroke="#FF6B6B" stroke-width="3" fill="none" marker-end="url(#arrowRed)"/>
-    <text x="405" y="140" font-size="14" font-weight="bold" fill="#FF6B6B">40% Lift</text>
-  </g>
-  
-  <!-- Latency Optimization Line Chart -->
-  <g id="latency-chart" transform="translate(500, 0)">
-    <text x="50" y="30" font-size="18" font-weight="bold" fill="#333">Latency Optimization</text>
-    
-    <!-- Baseline Point -->
-    <circle cx="50" cy="100" r="6" fill="#FF6B6B" stroke="#FF0000" stroke-width="2"/>
-    <text x="50" y="130" text-anchor="middle" font-size="11" fill="#333">2.5s</text>
-    
-    <!-- Mid Point -->
-    <circle cx="150" cy="120" r="6" fill="#FFB84D" stroke="#FF8C00" stroke-width="2"/>
-    <text x="150" y="150" text-anchor="middle" font-size="11" fill="#333">2.0s</text>
-    
-    <!-- Optimized -->
-    <circle cx="250" cy="200" r="6" fill="#50C878" stroke="#228B22" stroke-width="2"/>
-    <text x="250" y="230" text-anchor="middle" font-size="11" fill="#333">1.2s</text>
-    
-    <!-- Line connecting points -->
-    <polyline points="50,100 150,120 250,200" stroke="#FF6B6B" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
-    
-    <!-- Arrow showing reduction -->
-    <path d="M 50 90 L 250 90" stroke="#50C878" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
-    <text x="150" y="80" text-anchor="middle" font-size="12" font-weight="bold" fill="#50C878">-52% faster</text>
-  </g>
-  
-  <!-- Arrow markers -->
+
+  <!-- Arrow Definition -->
   <defs>
-    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="arrowRed"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#FF6B6B"/>
     </marker>
-    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+  </defs>
+
+  <!-- DAU Growth Bar Chart -->
+  <g id="dau-chart">
+
+    <!-- Title -->
+    <text x="50" y="40" font-size="18" font-weight="bold" fill="#333">
+      DAU Growth Journey
+    </text>
+
+    <!-- Baseline -->
+    <rect x="80" y="100" width="40" height="200"
+          fill="#FFB6C1"
+          stroke="#FF69B4"
+          stroke-width="2"/>
+
+    <text x="100" y="320"
+          text-anchor="middle"
+          font-size="12"
+          fill="#333">
+      Day 1
+    </text>
+
+    <text x="100" y="335"
+          text-anchor="middle"
+          font-size="10"
+          fill="#666">
+      Baseline
+    </text>
+
+    <!-- After Tests -->
+    <rect x="200" y="60" width="40" height="240"
+          fill="#87CEEB"
+          stroke="#4169E1"
+          stroke-width="2"/>
+
+    <text x="220" y="320"
+          text-anchor="middle"
+          font-size="12"
+          fill="#333">
+      Week 2
+    </text>
+
+    <text x="220" y="335"
+          text-anchor="middle"
+          font-size="10"
+          fill="#666">
+      +20%
+    </text>
+
+    <!-- Final Result -->
+    <rect x="320" y="20" width="40" height="280"
+          fill="#50C878"
+          stroke="#228B22"
+          stroke-width="2"/>
+
+    <text x="340" y="320"
+          text-anchor="middle"
+          font-size="12"
+          fill="#333">
+      Final
+    </text>
+
+    <text x="340" y="335"
+          text-anchor="middle"
+          font-size="10"
+          font-weight="bold"
+          fill="#666">
+      +40%
+    </text>
+
+    <!-- Arrow -->
+    <path d="M 380 150 L 470 150"
+          stroke="#FF6B6B"
+          stroke-width="3"
+          fill="none"
+          marker-end="url(#arrowRed)"/>
+
+    <text x="425" y="140"
+          text-anchor="middle"
+          font-size="14"
+          font-weight="bold"
+          fill="#FF6B6B">
+      40% Lift
+    </text>
+
+  </g>
+</svg>
+  
+  <!-- Latency Optimization Line Chart -->
+ <svg viewBox="0 0 1000 400"
+     xmlns="http://www.w3.org/2000/svg"
+     style="width:100%; border-radius:8px;
+     background:linear-gradient(135deg,#f5f7fa 0%,#c3cfe2 100%);">
+
+  <!-- Arrow Markers -->
+  <defs>
+    <marker id="arrowRed"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#FF6B6B"/>
+    </marker>
+
+    <marker id="arrowGreen"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto"
+            markerUnits="strokeWidth">
       <path d="M0,0 L0,6 L9,3 z" fill="#50C878"/>
     </marker>
   </defs>
-</svg>
 
+  <!-- Latency Optimization Chart -->
+  <g id="latency-chart" transform="translate(500, 0)">
+
+    <!-- Title -->
+    <text x="50"
+          y="40"
+          font-size="18"
+          font-weight="bold"
+          fill="#333">
+      Latency Optimization
+    </text>
+
+    <!-- Dashed Trend Line -->
+    <polyline points="50,100 150,140 250,220"
+              stroke="#FF6B6B"
+              stroke-width="3"
+              fill="none"
+              stroke-dasharray="6,6"/>
+
+    <!-- Baseline Point -->
+    <circle cx="50"
+            cy="100"
+            r="7"
+            fill="#FF6B6B"
+            stroke="#FF0000"
+            stroke-width="2"/>
+
+    <text x="50"
+          y="130"
+          text-anchor="middle"
+          font-size="12"
+          fill="#333">
+      2.5s
+    </text>
+
+    <!-- Mid Point -->
+    <circle cx="150"
+            cy="140"
+            r="7"
+            fill="#FFB84D"
+            stroke="#FF8C00"
+            stroke-width="2"/>
+
+    <text x="150"
+          y="170"
+          text-anchor="middle"
+          font-size="12"
+          fill="#333">
+      2.0s
+    </text>
+
+    <!-- Optimized Point -->
+    <circle cx="250"
+            cy="220"
+            r="7"
+            fill="#50C878"
+            stroke="#228B22"
+            stroke-width="2"/>
+
+    <text x="250"
+          y="250"
+          text-anchor="middle"
+          font-size="12"
+          fill="#333">
+      1.2s
+    </text>
+
+    <!-- Reduction Arrow -->
+    <path d="M 60 80 L 250 80"
+          stroke="#50C878"
+          stroke-width="3"
+          fill="none"
+          marker-end="url(#arrowGreen)"/>
+
+    <text x="155"
+          y="65"
+          text-anchor="middle"
+          font-size="13"
+          font-weight="bold"
+          fill="#50C878">
+      52% Faster
+    </text>
+
+  </g>
+</svg>
 ---
 
 ## Featured Projects
