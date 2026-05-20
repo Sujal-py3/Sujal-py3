@@ -71,9 +71,11 @@
 
 ---
 ## Growth & Performance Metrics
+<div align="center">
+
 <svg viewBox="0 0 1000 420"
      xmlns="http://www.w3.org/2000/svg"
-     style="width:100%; border-radius:12px;
+     style="width:100%; max-width:1000px; border-radius:12px;
      background:linear-gradient(135deg,#f5f7fa 0%,#c3cfe2 100%);">
 
   <!-- DEFINITIONS -->
@@ -292,6 +294,8 @@
   </g>
 
 </svg>
+
+</div>
 ---
 
 ## Featured Projects
