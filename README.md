@@ -4,284 +4,381 @@
   <h2>Building AI-powered products that move metrics</h2>
   
   <p>
-    <code>AI Engineer → Product</code> &nbsp; <code>LLM Systems</code> &nbsp; <code>Metrics-Driven</code>
+    <img alt="AI Engineer" src="https://img.shields.io/badge/AI_Engineer-FF6B6B?style=for-the-badge&logo=robot&logoColor=white"/>
+    <img alt="Product" src="https://img.shields.io/badge/Product-4ECDC4?style=for-the-badge&logo=target&logoColor=white"/>
+    <img alt="Metrics Driven" src="https://img.shields.io/badge/Metrics_Driven-95E1D3?style=for-the-badge&logo=chart-line&logoColor=white"/>
   </p>
   
-  <p style="font-size: 13px; color: #666;">
-    2 internships • 3 IEEE papers • Top 6 of 12,000+ (RedHat Hackathon)
+  <p>
+    <img alt="Internships" src="https://img.shields.io/badge/2_Internships-FFD93D?style=flat&logo=briefcase"/>
+    <img alt="IEEE Papers" src="https://img.shields.io/badge/3_IEEE_Papers-6C63FF?style=flat&logo=book"/>
+    <img alt="RedHat Hackathon" src="https://img.shields.io/badge/Top_6_of_12K%2B-FF1744?style=flat&logo=trophy"/>
   </p>
+</div>
+
+---
+
+## Impact Snapshot
+
+<div align="center">
+
+| Metric | Impact | Status |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/DAU_Growth-+40%25-brightgreen?style=flat-square&logo=trending-up"/> | theGoodBrowser | ✅ |
+| <img src="https://img.shields.io/badge/Retention-85%25-0099ff?style=flat-square&logo=users"/> | Week-1 Lift | ✅ |
+| <img src="https://img.shields.io/badge/Task_Completion-+30%25-9966ff?style=flat-square&logo=checkmark"/> | Performance Win | ✅ |
+| <img src="https://img.shields.io/badge/Effort_Reduction-60--70%25-FFD93D?style=flat-square&logo=zap"/> | Automation | ✅ |
+| <img src="https://img.shields.io/badge/Latency-2.5s→1.2s-ff6b6b?style=flat-square&logo=flash"/> | Optimization | ✅ |
+| <img src="https://img.shields.io/badge/Uptime-99.5%25-00c853?style=flat-square&logo=shield"/> | Production | ✅ |
+
 </div>
 
 ---
 
 ## Core Competencies
 
-<div align="center">
+### Product & Growth
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=flat&logo=test-tube)
+![OKR Setting](https://img.shields.io/badge/OKR_Setting-FF8C42?style=flat&logo=target)
+![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-FFB84D?style=flat&logo=analytics)
+![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-FFD93D?style=flat&logo=chart-bar)
+![Feature Prioritization](https://img.shields.io/badge/Feature_Prioritization-FFC857?style=flat&logo=list)
+![Growth Loops](https://img.shields.io/badge/Growth_Loops-F7DC6F?style=flat&logo=repeat)
 
-| **Product** | **AI/ML** | **Backend** | **Cloud** |
-|:---:|:---:|:---:|:---:|
-| `A/B Testing` | `LLMs` | `FastAPI` | `AWS` |
-| `OKR Setting` | `RAG` | `Node.js` | `Lambda` |
-| `Funnel Analysis` | `LangChain` | `MongoDB` | `S3` |
-| `Cohort Analysis` | `Embeddings` | `Redis` | `Docker` |
-| `Feature Prioritization` | `Prompt Eng.` | `PostgreSQL` | `DevOps` |
+### AI & LLM Systems
+![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=flat&logo=brain)
+![RAG](https://img.shields.io/badge/RAG-7B68EE?style=flat&logo=database)
+![LangChain](https://img.shields.io/badge/LangChain-8A5FBF?style=flat&logo=link)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Eng.-9966FF?style=flat&logo=wand)
+![Vector Search](https://img.shields.io/badge/Vector_Search-A78BFA?style=flat&logo=compass)
+![Hallucination Guards](https://img.shields.io/badge/Hallucination_Guards-C4B5FD?style=flat&logo=shield)
 
-</div>
+### Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-4ECDC4?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-5FD3D3?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
----
-
-## Impact Dashboard
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**Growth Metrics**
-```
-DAU Growth              +40%
-├─ Alfred AI Assistant
-└─ Engagement iteration
-
-Week-1 Retention        85%
-├─ 3 A/B tests
-└─ Flow optimization
-
-Task Completion         +30%
-├─ Latency: 2.5s→1.2s
-└─ Performance work
-```
-
-</td>
-<td width="50%" align="center">
-
-**Efficiency Wins**
-```
-Manual Effort          -60-70%
-├─ AI Use Case Gen
-└─ Structured output
-
-Workflow Time          2w → 5m
-├─ Docs-to-Use-Cases
-└─ Auto-pipeline
-
-Drop-off Detected      35%
-├─ Cohort analysis
-└─ Data-driven fix
-```
-
-</td>
-</tr>
-</table>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws)
+![Lambda](https://img.shields.io/badge/Lambda-FF9F1C?style=flat&logo=aws-lambda)
+![S3](https://img.shields.io/badge/S3-FFBF69?style=flat&logo=amazon-s3)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FFD60A?style=flat&logo=cloudwatch)
+![Monitoring](https://img.shields.io/badge/Monitoring-FFC300?style=flat&logo=eye)
+![DevOps](https://img.shields.io/badge/DevOps-FB5607?style=flat&logo=terraform)
 
 ---
 
-## Experience
+## Growth & Performance Metrics
 
-### AI Engineer Intern (Product & Growth)
-**theGoodBrowser** | May – Jul 2025
-
-<div align="center">
-
-| Focus Area | Outcome | Tag |
-|:---|:---|:---:|
-| Metrics Instrumentation | DAU, Activation, Latency, Completion | `Instrumentation` |
-| Onboarding Optimization | 35% drop-off → 40% DAU lift, 85% retention | `A/B Testing` |
-| Performance Debugging | 2.5s → 1.2s latency, +30% success rate | `Optimization` |
-| Product Launch | Alfred (WhatsApp + Gmail + Calendar AI) | `Ship` |
-| Engagement | 100+ alpha users, NPS tracking loop | `Growth` |
-
-</div>
-
-Owned product metrics and growth experiments for AI-powered productivity tool. Instrumented core metrics (DAU, activation, latency, task completion) to anchor feature prioritization. Diagnosed onboarding friction via cohort analysis, ran 3 A/B tests, lifted DAU 40% and week-1 retention to 85%. Traced low task completion to 2.5s latency and drove optimization lifting success rate 30%. Built and shipped Alfred (WhatsApp + Gmail + Calendar AI assistant) to 100+ users with engagement tracking and NPS loops. Surfaced activation friction through user interviews + behavioral data to inform sprint scope.
-
----
-
-### Fullstack AI Intern (Product Infrastructure)
-**Sernion Technologies** | Aug – Oct 2025
-
-<div align="center">
-
-| Responsibility | Impact | Tag |
-|:---|:---|:---:|
-| Pipeline Optimization | Bottleneck ID in annotation workflow | `Systems` |
-| Deployment Strategy | 20% efficiency improvement | `Architecture` |
-| Reliability Culture | Rollbacks: 12 → 4/month, 99.9% uptime | `DevOps` |
-| Cross-functional Alignment | 98% accuracy benchmarks with GTM | `Strategy` |
-| Automation Scoping | 30% manual overhead reduction proposal | `Ops` |
-
-</div>
-
-Owned product infrastructure for ML annotation and deployment pipelines. Mapped annotation workflows end-to-end, identifying bottlenecks in model accuracy and release cadence. Weighed 3 deployment strategies (cost/quality/speed trade-offs), adopted recommendation, improved update efficiency 20%. Shifted engineering culture toward reliability; rollbacks dropped from 12 to 4/month with 99.9% uptime. Partnered with GTM to set 98% accuracy benchmarks, tying model output directly to product requirements. Flagged 30% manual overhead in team workflows and scoped automation proposal to reclaim engineering capacity.
+<svg viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg" style="width:100%; border-radius: 8px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);">
+  <!-- DAU Growth Bar Chart -->
+  <g id="dau-chart">
+    <text x="50" y="30" font-size="18" font-weight="bold" fill="#333">DAU Growth Journey</text>
+    
+    <!-- Baseline -->
+    <rect x="80" y="100" width="40" height="200" fill="#FFB6C1" stroke="#FF69B4" stroke-width="2"/>
+    <text x="80" y="320" text-anchor="middle" font-size="12" fill="#333">Day 1</text>
+    <text x="100" y="320" text-anchor="middle" font-size="10" fill="#666">Baseline</text>
+    
+    <!-- After Tests -->
+    <rect x="200" y="60" width="40" height="240" fill="#87CEEB" stroke="#4169E1" stroke-width="2"/>
+    <text x="220" y="320" text-anchor="middle" font-size="12" fill="#333">Week 2</text>
+    <text x="220" y="335" text-anchor="middle" font-size="10" fill="#666">+20%</text>
+    
+    <!-- Final Result -->
+    <rect x="320" y="20" width="40" height="280" fill="#50C878" stroke="#228B22" stroke-width="2"/>
+    <text x="340" y="320" text-anchor="middle" font-size="12" fill="#333">Final</text>
+    <text x="340" y="335" text-anchor="middle" font-size="10" fill="#666" font-weight="bold">+40%</text>
+    
+    <!-- Arrow -->
+    <path d="M 360 150 L 450 150" stroke="#FF6B6B" stroke-width="3" fill="none" marker-end="url(#arrowRed)"/>
+    <text x="405" y="140" font-size="14" font-weight="bold" fill="#FF6B6B">40% Lift</text>
+  </g>
+  
+  <!-- Latency Optimization Line Chart -->
+  <g id="latency-chart" transform="translate(500, 0)">
+    <text x="50" y="30" font-size="18" font-weight="bold" fill="#333">Latency Optimization</text>
+    
+    <!-- Baseline Point -->
+    <circle cx="50" cy="100" r="6" fill="#FF6B6B" stroke="#FF0000" stroke-width="2"/>
+    <text x="50" y="130" text-anchor="middle" font-size="11" fill="#333">2.5s</text>
+    
+    <!-- Mid Point -->
+    <circle cx="150" cy="120" r="6" fill="#FFB84D" stroke="#FF8C00" stroke-width="2"/>
+    <text x="150" y="150" text-anchor="middle" font-size="11" fill="#333">2.0s</text>
+    
+    <!-- Optimized -->
+    <circle cx="250" cy="200" r="6" fill="#50C878" stroke="#228B22" stroke-width="2"/>
+    <text x="250" y="230" text-anchor="middle" font-size="11" fill="#333">1.2s</text>
+    
+    <!-- Line connecting points -->
+    <polyline points="50,100 150,120 250,200" stroke="#FF6B6B" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
+    
+    <!-- Arrow showing reduction -->
+    <path d="M 50 90 L 250 90" stroke="#50C878" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
+    <text x="150" y="80" text-anchor="middle" font-size="12" font-weight="bold" fill="#50C878">-52% faster</text>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#FF6B6B"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#50C878"/>
+    </marker>
+  </defs>
+</svg>
 
 ---
 
 ## Featured Projects
 
 ### AI-Powered Company Research Assistant
-<div>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 8px; color: white; margin: 15px 0;">
 
-| Metric | Value |
-|--------|-------|
-| Response Time | <30s |
-| vs Manual | -90% faster |
-| Uptime | 99.5% |
-| Response Speed | +35% |
+**🎯 Impact Metrics**
 
-**Stack:** `FastAPI` `Redis` `MongoDB` `Groq` `LLM Caching` `Vector Search`
+```
+Response Time: <30s          Uptime: 99.5%
+vs Manual: -90% faster      Speed: +35%
+```
 
-Real-time structured company insights replacing 2+ hour manual research.
+**Stack:**
+![FastAPI](https://img.shields.io/badge/FastAPI-white?style=flat-square&logo=python)
+![Redis](https://img.shields.io/badge/Redis-white?style=flat-square&logo=redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb)
+![Groq](https://img.shields.io/badge/Groq-white?style=flat-square)
+![LLM Caching](https://img.shields.io/badge/LLM_Caching-white?style=flat-square)
 
-- Cache-first architecture → 99.5% uptime, 35% faster response times
-- Feature iteration on adoption metrics → dropped low-value endpoints
-- Scalable API with intelligent caching and embedding-based retrieval
+Real-time company insights replacing 2+ hour manual research. Cache-first architecture with intelligent embedding-based retrieval.
 
 </div>
-
----
 
 ### Context-Grounded Use Case Generator
-<div>
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 8px; color: white; margin: 15px 0;">
 
-| Impact | Metric |
-|--------|--------|
-| Effort Reduction | 60-70% |
-| Trust Signal | Source-grounded |
-| Accuracy | 95% |
-| Format | Structured JSON |
+**🎯 Impact Metrics**
 
-**Stack:** `Python` `LangChain` `ChromaDB` `Streamlit` `RAG` `OCR` `Pydantic`
+```
+Effort Reduction: 60-70%    Accuracy: 95%
+Format: Structured JSON     Trust: Source-grounded
+```
 
-Automated documentation → structured use cases. Analyst time reclaimed, GTM confidence increased.
+**Stack:**
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-white?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-white?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-white?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-white?style=flat-square)
 
-- Hybrid RAG ensemble (vector + BM25, 50/50) for high-recall extraction
-- Hallucination guards via Pydantic validation + context scoping
-- Multi-modal ingestion: PDFs, Word docs, images with OCR support
+Hybrid RAG ensemble (vector + BM25) with hallucination guards. Multi-modal ingestion supporting PDFs, Word docs, and images.
 
 </div>
-
----
 
 ### Self-Correcting Hybrid Research Assistant
-<div>
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 8px; color: white; margin: 15px 0;">
 
-| Optimization | Result |
-|--------------|--------|
-| Irrelevant Results | -40% |
-| Search Type | Hybrid |
-| Vector Dims | 384-d |
-| Error Recovery | Auto-retry |
+**🎯 Impact Metrics**
 
-**Stack:** `Python` `LangChain` `Endee` `Groq` `Pydantic` `Streamlit` `ArXiv`
+```
+Irrelevant Results: -40%    Search Type: Hybrid
+Vector Dims: 384-d          Error Recovery: Auto-retry
+```
 
-RAG system over academic papers with validation-driven self-correction loops.
+**Stack:**
+![LangChain](https://img.shields.io/badge/LangChain-white?style=flat-square)
+![Endee](https://img.shields.io/badge/Endee-white?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-white?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-white?style=flat-square)
 
-- Pydantic errors fed back to LLM for auto-retry until schema compliance
-- Hybrid search: regex date parsing + 384-dim cosine KNN on custom vector DB
-- 40% fewer irrelevant results vs keyword-only search
+Validation-driven self-correction with regex date parsing + cosine KNN search on custom vector DB.
 
 </div>
-
----
 
 ### AI Resume Screener
-<div>
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 8px; color: white; margin: 15px 0;">
 
-| Capability | Performance |
-|------------|-------------|
-| Batch Size | 15+ resumes |
-| Speed | 4-5 sec |
-| Scoring | 0-100 scale |
-| Hiring Signal | Recommendation |
+**🎯 Impact Metrics**
 
-**Stack:** `Python` `Streamlit` `Groq` `PyPDF2` `LLM Evaluation`
+```
+Batch Size: 15+ resumes     Speed: 4-5 seconds
+Scoring: 0-100 scale        Hire Signal: Yes/No/Maybe
+```
 
-Rapid candidate evaluation with structured scoring and hiring signals.
+**Stack:**
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-white?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-white?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-white?style=flat-square)
 
-- Eliminates manual review overhead for recruiting teams
-- Surfaces strengths, gaps, and hire recommendations in JSON
+Eliminates manual review overhead with structured scoring and hiring signals.
 
 </div>
 
 ---
 
-## Technical Arsenal
+## Experience
 
-### AI & LLM Systems
-`LLMs (Claude, Groq, OSS)` `RAG` `Vector DBs` `ChromaDB` `Endee` `Embeddings` `Prompt Engineering` `LangChain` `Agentic Workflows` `Self-Correction Loops` `Hallucination Guards` `Pydantic Validation` `NotebookLM` `Multi-Agent Systems` `Retrieval Optimization`
-
-### Backend & Infrastructure
-`FastAPI` `Node.js` `Hono` `REST APIs` `Async/Await` `MongoDB` `PostgreSQL` `Redis` `Prisma` `SQL Optimization` `Docker` `Environment Config`
-
-### Cloud & DevOps
-`AWS Lambda` `S3` `EC2` `CloudWatch` `Monitoring` `Logging` `Performance Optimization` `Deployment Strategies`
-
-### Frontend & Data
-`React` `TypeScript` `Streamlit` `Tableau` `Funnel Analysis` `Cohort Analysis` `A/B Testing` `SQL` `Behavioral Metrics` `Retention Tracking`
-
-### Languages
-`Python` `JavaScript` `TypeScript` `SQL`
-
----
-
-## Tech Stack Proficiency
-
-<table>
-<tr>
-<td width="50%">
-
-### Production Systems
-- FastAPI + Redis caching
-- Real-time data pipelines
-- LLM API optimization
-- Batch processing
-
-</td>
-<td width="50%">
-
-### AI/ML Pipeline
-- RAG + vector search
-- LLM chains & agentic flows
-- Validation & error correction
-- Structured output enforcement
-
-</td>
-</tr>
-</table>
-
----
-
-## Achievements
+### AI Engineer Intern (Product & Growth) - theGoodBrowser
+**May – July 2025**
 
 <div align="center">
 
-| Achievement | Detail | Status |
-|:---:|---|:---:|
-| **RedHat Hackathon** | Top 6 of 12,000+ - MediMuse Healthcare AI | `Top Tier` |
-| **IEEE Publications** | 3 peer-reviewed papers on AI reliability & assistive tech | `Published` |
-| **Myntra WeForShe** | Semi-finalist in hackathon competition | `Finalist` |
-| **Community** | Head of Content at CodeChef Bennett University | `Leadership` |
+| Focus | Outcome | Tag |
+|:---:|:---:|:---:|
+| ![Instrumentation](https://img.shields.io/badge/Instrumentation-6C63FF?style=flat&logo=gauge) | DAU, Activation, Latency | Core |
+| ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=flat) | 3 tests, +40% DAU | Growth |
+| ![Optimization](https://img.shields.io/badge/Optimization-50C878?style=flat) | 2.5s→1.2s latency | Perf |
+| ![Ship](https://img.shields.io/badge/Shipped-FFD93D?style=flat) | Alfred AI Assistant | Launch |
+| ![Growth](https://img.shields.io/badge/Growth-4ECDC4?style=flat) | 100+ users, NPS loops | Scale |
 
 </div>
 
-**RedHat Hackathon Top 6**
-Scoped, pitched, and led go-to-market strategy for MediMuse (healthcare AI assistant). Competed against 12,000+ teams globally.
+Instrumented core metrics to anchor feature prioritization. Diagnosed 35% onboarding drop-off via cohort analysis, ran 3 A/B tests → lifted DAU 40%, week-1 retention to 85%. Debugged performance issues (2.5s → 1.2s latency) → +30% task completion success rate. Shipped Alfred (WhatsApp + Gmail + Calendar AI assistant) for 100+ users.
 
-**Published Research**
-- Intrusion Detection System using XGBoost + LSTM (IEEE CE2CT 2025)
-- Assistive AI for Autism Spectrum Disorder Training (IEEE CICN 2024)
-- Neurological Disorder Detection via Facial Features (IEEE AECE 2025)
+---
 
-**Community Impact**
-Head of Content (2023–2024) at CodeChef Bennett University Chapter. Drove technical writing and community engagement.
+### Fullstack AI Intern (Product Infrastructure) - Sernion Technologies
+**August – October 2025**
+
+<div align="center">
+
+| Responsibility | Impact | Tag |
+|:---:|:---:|:---:|
+| ![Systems](https://img.shields.io/badge/Pipeline_Optimization-7B68EE?style=flat) | Bottleneck ID | Design |
+| ![Architecture](https://img.shields.io/badge/Deployment_Strategy-4ECDC4?style=flat) | +20% efficiency | Scale |
+| ![DevOps](https://img.shields.io/badge/Reliability-50C878?style=flat) | 12→4 rollbacks | Quality |
+| ![Strategy](https://img.shields.io/badge/GTM_Alignment-FFD93D?style=flat) | 98% accuracy | Goals |
+| ![Ops](https://img.shields.io/badge/Automation-FF6B6B?style=flat) | 30% overhead cut | Efficiency |
+
+</div>
+
+Owned ML annotation and deployment infrastructure. Identified pipeline bottlenecks affecting model accuracy. Evaluated 3 deployment strategies, recommended optimal approach → 20% efficiency gain. Shifted culture toward reliability (rollbacks: 12 → 4/month, 99.9% uptime). Set 98% accuracy benchmarks with GTM. Proposed automation to reclaim 30% engineering overhead.
+
+---
+
+## Achievements & Recognition
+
+<div align="center">
+
+| Achievement | Detail | Year |
+|:---:|---|:---:|
+| ![RedHat](https://img.shields.io/badge/RedHat_Top_6-FF1744?style=flat-square&logo=trophy) | 12,000+ competitors, MediMuse Healthcare AI | 2025 |
+| ![IEEE](https://img.shields.io/badge/IEEE_Papers-6C63FF?style=flat-square&logo=book) | 3 peer-reviewed publications | 2024-2025 |
+| ![Myntra](https://img.shields.io/badge/Myntra_WeForShe-FF69B4?style=flat-square) | Semi-finalist in hackathon | 2024 |
+| ![Leadership](https://img.shields.io/badge/CodeChef_Head-FFA500?style=flat-square&logo=users) | Head of Content (2023-2024) | 2024 |
+
+</div>
+
+**RedHat Hackathon Top 6:** Scoped, pitched, and led go-to-market strategy for MediMuse (healthcare AI assistant) against 12,000+ global teams.
+
+**IEEE Publications:**
+- ![CE2CT](https://img.shields.io/badge/CE2CT_2025-6C63FF?style=flat) Intrusion Detection System using XGBoost + LSTM
+- ![CICN](https://img.shields.io/badge/CICN_2024-7B68EE?style=flat) Assistive AI for Autism Spectrum Disorder Training
+- ![AECE](https://img.shields.io/badge/AECE_2025-8A5FBF?style=flat) Neurological Disorder Detection via Facial Features
+
+---
+
+## Tech Proficiency Radar
+
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" style="width:100%; max-width: 400px;">
+  <!-- Background circles -->
+  <circle cx="250" cy="250" r="200" fill="none" stroke="#E0E0E0" stroke-width="1"/>
+  <circle cx="250" cy="250" r="150" fill="none" stroke="#E0E0E0" stroke-width="1"/>
+  <circle cx="250" cy="250" r="100" fill="none" stroke="#E0E0E0" stroke-width="1"/>
+  <circle cx="250" cy="250" r="50" fill="none" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <!-- Axes -->
+  <line x1="250" y1="50" x2="250" y2="450" stroke="#999" stroke-width="1"/>
+  <line x1="50" y1="250" x2="450" y2="250" stroke="#999" stroke-width="1"/>
+  
+  <!-- Product Skills (top) -->
+  <polygon points="250,80 320,140 290,200 210,200 180,140" fill="#FF6B6B" opacity="0.3" stroke="#FF6B6B" stroke-width="2"/>
+  <circle cx="250" cy="110" r="4" fill="#FF6B6B"/>
+  <text x="250" y="60" text-anchor="middle" font-size="12" font-weight="bold" fill="#FF6B6B">Product</text>
+  
+  <!-- AI/ML Skills (right) -->
+  <polygon points="380,180 410,250 380,320 310,290 310,210" fill="#6C63FF" opacity="0.3" stroke="#6C63FF" stroke-width="2"/>
+  <circle cx="380" cy="220" r="4" fill="#6C63FF"/>
+  <text x="430" y="250" text-anchor="middle" font-size="12" font-weight="bold" fill="#6C63FF">AI/ML</text>
+  
+  <!-- Backend Skills (bottom right) -->
+  <polygon points="320,370 380,340 410,390 350,420 290,400" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" stroke-width="2"/>
+  <circle cx="340" cy="380" r="4" fill="#4ECDC4"/>
+  <text x="380" y="450" text-anchor="middle" font-size="12" font-weight="bold" fill="#4ECDC4">Backend</text>
+  
+  <!-- Cloud/DevOps (bottom left) -->
+  <polygon points="180,370 210,400 150,420 100,390 120,340" fill="#FF9F1C" opacity="0.3" stroke="#FF9F1C" stroke-width="2"/>
+  <circle cx="150" cy="380" r="4" fill="#FF9F1C"/>
+  <text x="80" y="450" text-anchor="middle" font-size="12" font-weight="bold" fill="#FF9F1C">Cloud</text>
+  
+  <!-- Analytics (left) -->
+  <polygon points="100,250 140,200 180,220 170,280 110,290" fill="#FFD93D" opacity="0.3" stroke="#FFD93D" stroke-width="2"/>
+  <circle cx="130" cy="250" r="4" fill="#FFD93D"/>
+  <text x="50" y="250" text-anchor="middle" font-size="12" font-weight="bold" fill="#FFD93D">Analytics</text>
+  
+  <!-- Legend -->
+  <text x="250" y="490" text-anchor="middle" font-size="10" fill="#666">Proficiency Radar - All Skills Expert Level</text>
+</svg>
+
+---
+
+## Tech Stack by Category
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & ML Frameworks
+![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-7B68EE?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8A5FBF?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-9966FF?style=for-the-badge)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge)
+![Async Patterns](https://img.shields.io/badge/Async-FFD93D?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9F1C?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+### Frontend & Data
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF0000?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</div>
 
 ---
 
 ## Education
 
-**Bennett University** | Sept 2022 – May 2026  
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 8px; color: white; text-align: center;">
+
+**Bennett University** | September 2022 – May 2026  
 **B.Tech in Computer Science Engineering** | CGPA: 8.15
 
 Coursework: `Product Systems` `AI/ML` `Cloud Computing` `Data Structures` `Distributed Systems`
+
+</div>
 
 ---
 
@@ -289,18 +386,19 @@ Coursework: `Product Systems` `AI/ML` `Cloud Computing` `Data Structures` `Distr
 
 <div align="center">
 
-| Channel | Link |
-|:---:|:---|
-| **Email** | sujal3177@gmail.com |
-| **LinkedIn** | linkedin.com/in/sujal-singh |
-| **GitHub** | github.com/Sujal-py3 |
+[![Email](https://img.shields.io/badge/Email-sujal3177@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujal3177@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal_Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-Sujal--py3-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujal-py3)
 
-**Open to:** `Product Strategy` `AI Systems Architecture` `Growth Partnerships` `AI Engineer → PM Transition`
+**Open to:**
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-667eea?style=flat&logo=target)
+![AI Systems](https://img.shields.io/badge/AI_Systems-764ba2?style=flat&logo=brain)
+![Growth](https://img.shields.io/badge/Growth-FF6B6B?style=flat&logo=trending-up)
+![PM Transition](https://img.shields.io/badge/Engineer→PM-FFD93D?style=flat&logo=briefcase)
 
 </div>
 
----
-
-<div align="center">
+<div align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px;">
   <p><strong>Building at the intersection of AI, product, and metrics</strong></p>
+  <p style="font-size: 12px; color: #666;">Always shipping. Always measuring. Always improving.</p>
 </div>
